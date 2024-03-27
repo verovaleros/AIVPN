@@ -9,7 +9,7 @@ The AI VPN is a modular service that automates the generation and revocation of 
 ![](https://github.com/stratosphereips/AIVPN/blob/main/assets/Civilsphere-AI-VPN-HowItWorks-1.png)
 
 # Features
-The main features of AI VPN are:
+The main features of AI VPN are: TEST
 
 - You can install it in your organization and give VPN accounts to your employees
 - All the traffic going through the AI VPN is encrypted
